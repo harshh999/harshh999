@@ -1,5 +1,7 @@
-# 💫 About Me:
-A passionate Software Developer from India, now channeling my expertise into building and scaling Lazlle & Co, a business automation agency. I bridge the gap between technical execution and strategic business growth.
+# 🏎️ More about me:
+I’m a developer turned automation-focused builder, currently working on Lazlle & Co — a business automation agency.
+I enjoy solving operational problems using technology whether it’s automating repetitive tasks, connecting disconnected tools, or building backend systems that support growth.
+My approach is simple: combine technical execution with business understanding to create systems that actually move the needle.
 
 ---
 
